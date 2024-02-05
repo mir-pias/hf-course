@@ -1,5 +1,6 @@
 ./bert
-./.ipynb_checkpoints
+/.ipynb_checkpoints
+/.DS_Store
 *.txt
 *.json
 *.bin
